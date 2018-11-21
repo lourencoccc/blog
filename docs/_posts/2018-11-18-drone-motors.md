@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Drones!"
+title:  "Drone Motors"
 date:   2018-11-18 21:00:00 -0300
 categories: drone motor
 ---
