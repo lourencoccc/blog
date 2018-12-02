@@ -16,6 +16,8 @@ the overall shape and structure of the program as well as the detailed shape and
 represented by many different media, but its final embodiment is source 
 code. In the end, the source code is the desing.
 
+The book describes the five principles to guide the software design, when all principles are applied, is possible to minimize the odors on the source code and improve more quality for the software.
+
 ## Desing Smell - The Odors of Rotting Software
 
 1. Rigidity - The System is hard to change because every change forces many other changes to other parts  of the system.
