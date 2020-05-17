@@ -2,7 +2,7 @@
 layout: post
 title:  "DJI Frames"
 date:   2018-11-19 21:00:00 -0300
-categories: drone motor
+categories: [drone, motor]
 ---
 
 DJI provide a multitotor flyibg pllataform for entertraining and 

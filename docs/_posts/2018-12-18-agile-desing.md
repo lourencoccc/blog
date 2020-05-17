@@ -2,7 +2,7 @@
 layout: post
 title:  "Agile Software Design - Summary"
 date:   2018-12-01 20:24:00 -0300
-categories: software desing
+categories: [software, desing]
 ---
 
 
